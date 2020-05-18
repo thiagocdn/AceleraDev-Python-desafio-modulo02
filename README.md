@@ -1,3 +1,7 @@
+# Link do vídeo da resolução:
+
+https://www.youtube.com/watch?v=ZqrP0J_3YtU
+
 # Desafio de programação orientada a objetos
 
    
